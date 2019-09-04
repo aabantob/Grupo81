@@ -1,0 +1,13 @@
+<svg id="noun_Mail_2269069" xmlns="http://www.w3.org/2000/svg" width="24.125" height="15.677" viewBox="0 0 24.125 15.677">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_10" data-name="Grupo 10" transform="translate(0 0)">
+    <path id="Trazado_28" data-name="Trazado 28" class="cls-1" d="M9.446,64H30.679a1.431,1.431,0,0,1,1.446,1.37v.913l-11.8,9.589-.457.076L8,66.283V65.37A1.431,1.431,0,0,1,9.446,64Zm22.679,3.957V78L25.96,72.98ZM31.668,79.3a1.447,1.447,0,0,1-.989.381H9.446a1.6,1.6,0,0,1-.989-.381l6.773-5.556,3.805,3.2a1.718,1.718,0,0,0,2.131-.076l3.805-3.12ZM8,78V67.881l6.164,5.1Z" transform="translate(-8 -64)"/>
+  </g>
+</svg>
