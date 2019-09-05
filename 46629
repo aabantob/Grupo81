@@ -1,0 +1,48 @@
+<html lang="es">
+					<head>
+						<title></title>
+						<style>*{padding:0;margin:0;}</style>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
+            <link rel="stylesheet" href="css/style.css">
+					</head>
+					<body>
+						 <main class="main-nosotros">
+              <div class="row-nosotros">
+              <div>
+                  <h1>Datos del Cliente</h1>
+
+									<table style="width: 100%; text-align: center;">
+										
+										<tbody style="width: 100%; text-align: center;">
+											<tr>
+												<td style="padding: 10px 0; font-weight: bold; color: #D9BC03;">NOMBRES Y APELLIDOS: </td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; color: #575757;">' .$nombres. ' &nsbp;'.$apellidos.'</td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; font-weight: bold; color: #D9BC03;">TELÉFONO: </td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; color: #575757;">' .$telefono. '</td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; font-weight: bold; color: #D9BC03;">CORREO: </td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; color: #575757;"> ' .$email. '</td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; font-weight: bold; color: #D9BC03;">MENSAJE: </td>
+											</tr>
+											<tr>
+												<td style="padding: 10px 0; color: #575757;"> '.$mensaje.' </td>
+											</tr>
+
+										</tbody>
+									</table>
+						
+					</body>
+				
+					</html>
